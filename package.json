@@ -1,0 +1,22 @@
+{
+  "name": "react-pgr",
+  "version": "0.0.0",
+  "description": "React Pagination Component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-major/react-pgr.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "pagination",
+    "pager",
+    "paginator"
+  ],
+  "author": "Matt Major <mattmajor14@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-major/react-pgr/issues"
+  },
+  "homepage": "https://github.com/matt-major/react-pgr#readme"
+}
