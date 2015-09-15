@@ -1,7 +1,8 @@
 {
   "name": "react-pgr",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React Pagination Component",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matt-major/react-pgr.git"
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/matt-major/react-pgr/issues"
   },
-  "homepage": "https://github.com/matt-major/react-pgr#readme"
+  "homepage": "https://github.com/matt-major/react-pgr",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
 }
